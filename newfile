@@ -9,3 +9,9 @@ git push origin master
 git show 
 git log
 git commit -m ""
+this is a branching startergy
+merge 
+dev
+qa
+uat
+
